@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 // require('dotenv').config();
 
-// https://www.googleapis.com/youtube/v3/search?key=AIzaSyB4xNW_TeLDTO9tKxmHQAZskoy9Na0sxR0&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=1
+// https://www.googleapis.com/youtube/v3/search?key=AIzaSyCLnJx8PY-Oc7nIjT-LUcqVtrfsYvOYX-E&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=1
 
 class Youtube extends Component {
   constructor() {
@@ -12,9 +12,12 @@ class Youtube extends Component {
   }
 
   componentDidMount() {
+  
     fetch(
-     
-      `https://www.googleapis.com/youtube/v3/search?key=${process.env.REACT_APP_API_KEY}&channelId=${process.env.REACT_APP_CHANNEL_ID}&part=snippet,id&order=date&maxResults=6`
+    //  ` https://www.googleapis.com/youtube/v3/search?key=AIzaSyCLnJx8PY-Oc7nIjT-LUcqVtrfsYvOYX-E&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=6`
+
+   
+       `https://www.googleapis.com/youtube/v3/search?key=${process.env.REACT_APP_API_KEY}&channelId=${process.env.REACT_APP_CHANNEL_ID}&part=snippet,id&order=date&maxResults=6`
     )
       .then((response) => response.json())
       .then((data) => {

@@ -21,10 +21,11 @@ function Navigation() {
 
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="nav-justified w-100 nav-fill">
+              
+              <Nav.Link href="/iphone">iphone</Nav.Link>
               <Nav.Link className="nav-link" href="/mac">
                 Mac
               </Nav.Link>
-              <Nav.Link href="/iphone">iphone</Nav.Link>
               <Nav.Link href="/ipad">ipad</Nav.Link>
               <Nav.Link href="/watch">watch</Nav.Link>
               <Nav.Link href="/tv">tv</Nav.Link>

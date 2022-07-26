@@ -61,7 +61,7 @@ class Productpage extends Component {
 
                     <div className={`col-sm-12 col-md-6`}>
                       <div className="prodict-image">
-                        <img src={img} />
+                        <img src={img}  alt=''/>
                       </div>
                     </div>
                   </div>

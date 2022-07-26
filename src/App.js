@@ -42,7 +42,6 @@ function App() {
         <Route path="/" element={<><Main /><Youtube /></>} />
           <Route path="/mac" element={<Mac />} />
           <Route path="/iphone" element={<Iphone />} />
-         
           <Route path="/ipad" element={<Ipad />} />
           <Route path="/TV" element= {<Tv />} />
           <Route path="/Watch" element={<Watch />} />
@@ -51,24 +50,6 @@ function App() {
           <Route path="/Cart" element={<Cart />} />
           <Route path="/iphone/:pid" element={<Productpage />} />
           <Route path="/" component={Four04} />
-
-
-          {/* <Route path="/" element={<Youtube />} /> */}
-          {/* <Route path="/iphone" exact component={Iphone} />
-          <Route path="/ipad" exact component={Ipad} />
-          <Route path="/TV" exact component={TV} />
-          <Route path="/Watch" exact component={Watch} />
-          <Route path="/Music" exact component={Music} />
-          <Route path="/Support" exact component={Support} />
-          <Route path="/Cart" exact component={Cart} />
-          <Route path="/mac" exact component={Mac} />
-          <Route path="/iphone/:pid" exact component={Productpage} />
-          <Route path="/" component={Four04} /> */}
-          {/* <Route path="/" exact component={Main} />
-          <Route path="/mac" exact component={Mac} />
-          <Route path="/iphone" exact component={Iphone} />
-          <Route path="/iphone/:pid" exact component={Productpage} />
-          <Route path="/" component={Four04} /> */}
         </Routes>
         <Footer />
       </div>
