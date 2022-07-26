@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Apple-react-clone/static/css/main.fc8b885e.css",
-    "main.js": "/Apple-react-clone/static/js/main.81ba50a6.js",
+    "main.js": "/Apple-react-clone/static/js/main.e34422b3.js",
     "static/media/iphone11-pro-bg.jpg": "/Apple-react-clone/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
     "static/media/iphone11-colored.jpg": "/Apple-react-clone/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
     "static/media/macbookair-new.jpg": "/Apple-react-clone/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
@@ -14,10 +14,10 @@
     "static/media/ipodPronew-sm.jpg": "/Apple-react-clone/static/media/ipodPronew-sm.fc51d11e103f25e4b84b.jpg",
     "index.html": "/Apple-react-clone/index.html",
     "main.fc8b885e.css.map": "/Apple-react-clone/static/css/main.fc8b885e.css.map",
-    "main.81ba50a6.js.map": "/Apple-react-clone/static/js/main.81ba50a6.js.map"
+    "main.e34422b3.js.map": "/Apple-react-clone/static/js/main.e34422b3.js.map"
   },
   "entrypoints": [
     "static/css/main.fc8b885e.css",
-    "static/js/main.81ba50a6.js"
+    "static/js/main.e34422b3.js"
   ]
 }
