@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 // import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import { HashRouter as Router ,Routes ,Route } from 'react-router-dom';
+import { BrowserRouter as Router ,Routes ,Route } from 'react-router-dom';
 // import { BrowserRouter as Router ,Routes ,Route } from 'react-router-dom';
 // BrowserRouter
 // To add the ability to add routing functionality
