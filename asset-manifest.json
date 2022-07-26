@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Apple-react-clone1/static/css/main.fc672a82.css",
-    "main.js": "/Apple-react-clone1/static/js/main.7ddb698a.js",
-    "static/media/iphone11-pro-bg.jpg": "/Apple-react-clone1/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
-    "static/media/iphone11-colored.jpg": "/Apple-react-clone1/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
-    "static/media/macbookair-new.jpg": "/Apple-react-clone1/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
-    "static/media/spyder.jpg": "/Apple-react-clone1/static/media/spyder.c91b56342f94fc6e6e1f.jpg",
-    "static/media/actors.jpg": "/Apple-react-clone1/static/media/actors.10f4f8d078a989ccb9bc.jpg",
-    "static/media/ipodPronew.jpg": "/Apple-react-clone1/static/media/ipodPronew.03e7d6e41eae3bca23ad.jpg",
-    "static/media/watch.jpg": "/Apple-react-clone1/static/media/watch.8c1f1e9707b29ce07494.jpg",
-    "static/media/apple-card-monthly.jpg": "/Apple-react-clone1/static/media/apple-card-monthly.a77ef6c49a97f9b1826e.jpg",
-    "static/media/macbookair-new-sm.jpg": "/Apple-react-clone1/static/media/macbookair-new-sm.0a6fe6cc80d2c1257b36.jpg",
-    "static/media/ipodPronew-sm.jpg": "/Apple-react-clone1/static/media/ipodPronew-sm.fc51d11e103f25e4b84b.jpg",
-    "index.html": "/Apple-react-clone1/index.html",
-    "main.fc672a82.css.map": "/Apple-react-clone1/static/css/main.fc672a82.css.map",
-    "main.7ddb698a.js.map": "/Apple-react-clone1/static/js/main.7ddb698a.js.map"
+    "main.css": "/Apple-react-clone/static/css/main.fc8b885e.css",
+    "main.js": "/Apple-react-clone/static/js/main.81ba50a6.js",
+    "static/media/iphone11-pro-bg.jpg": "/Apple-react-clone/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
+    "static/media/iphone11-colored.jpg": "/Apple-react-clone/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
+    "static/media/macbookair-new.jpg": "/Apple-react-clone/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
+    "static/media/spyder.jpg": "/Apple-react-clone/static/media/spyder.c91b56342f94fc6e6e1f.jpg",
+    "static/media/actors.jpg": "/Apple-react-clone/static/media/actors.10f4f8d078a989ccb9bc.jpg",
+    "static/media/ipodPronew.jpg": "/Apple-react-clone/static/media/ipodPronew.03e7d6e41eae3bca23ad.jpg",
+    "static/media/watch.jpg": "/Apple-react-clone/static/media/watch.8c1f1e9707b29ce07494.jpg",
+    "static/media/apple-card-monthly.jpg": "/Apple-react-clone/static/media/apple-card-monthly.a77ef6c49a97f9b1826e.jpg",
+    "static/media/macbookair-new-sm.jpg": "/Apple-react-clone/static/media/macbookair-new-sm.0a6fe6cc80d2c1257b36.jpg",
+    "static/media/ipodPronew-sm.jpg": "/Apple-react-clone/static/media/ipodPronew-sm.fc51d11e103f25e4b84b.jpg",
+    "index.html": "/Apple-react-clone/index.html",
+    "main.fc8b885e.css.map": "/Apple-react-clone/static/css/main.fc8b885e.css.map",
+    "main.81ba50a6.js.map": "/Apple-react-clone/static/js/main.81ba50a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc672a82.css",
-    "static/js/main.7ddb698a.js"
+    "static/css/main.fc8b885e.css",
+    "static/js/main.81ba50a6.js"
   ]
 }
