@@ -255,7 +255,7 @@ function Footer() {
         </div>
         <div className="copyright-wrapper row">
           <div className="copyright col-sm-12 order-2 col-md-8 order-md-1 col-lg-4 order-lg-1">
-            Copyright &copy; 2020 Apple Inc. All rights reserved.
+            Copyright &copy; 2022 Apple Inc. All rights reserved.
           </div>
           <div className="footer-links-terms  col-sm-12 order-3 col-lg-6 order-lg-2">
             <ul>
